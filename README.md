@@ -1,1 +1,1 @@
-# Mini ReactApp for Microservice Architecture
+# Mini ReactApp for Microservices
